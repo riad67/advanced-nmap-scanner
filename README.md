@@ -9,9 +9,9 @@ A Python-based port scanner with Nmap-style features including service detection
 
 ## Features
 
-Multi-threaded Port Scanning - Fast and efficient
-Service Version Detection - Banner grabbing and service identification
-OS Fingerprinting - TCP/IP stack analysis for OS detection
+!Multi-threaded Port Scanning - Fast and efficient
+!Service Version Detection - Banner grabbing and service identification
+!OS Fingerprinting - TCP/IP stack analysis for OS detection
 Multiple Scan Types - Choose from 6 different scanning options
 Custom Port Ranges - Scan specific ports of interest
 No Dependencies - Uses Python standard library only
@@ -26,8 +26,8 @@ User-Friendly Menu - Interactive command-line interface
 
 ### Method 1: Clone from GitHub
 bash
-git clone https://github.com/riad67/advanced-nmap-scanner.git;
-cd advanced-nmap-scanner;
+!git clone https://github.com/riad67/advanced-nmap-scanner.git;
+!cd advanced-nmap-scanner;
 chmod +x scanner.py
 
 
