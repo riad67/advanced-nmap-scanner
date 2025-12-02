@@ -1,0 +1,15 @@
+# Example Usage
+
+## Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/riad-dale/advanced-nmap-scanner.git
+
+# Navigate to directory
+cd advanced-nmap-scanner
+
+# Make script executable
+chmod +x scanner.py
+
+# Run the scanner
+python3 scanner.py
