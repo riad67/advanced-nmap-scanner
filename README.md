@@ -25,15 +25,15 @@ A Python-based port scanner with Nmap-style features including service detection
 ## Installation
 
 ### Method 1: Clone from GitHub
->bash
->git clone https://github.com/riad-dale/advanced-nmap-scanner.git
->cd advanced-nmap-scanner
->chmod +x scanner.py
+bash
+git clone https://github.com/riad67/advanced-nmap-scanner.git
+cd advanced-nmap-scanner
+chmod +x scanner.py
 
 
 ### Method 2: Direct Download
 bash
->wget https://raw.githubusercontent.com/riad-dale/advanced-nmap-scanner/main/scanner.py
+>wget https://raw.githubusercontent.com/riad/advanced-nmap-scanner/main/scanner.py
 chmod +x scanner.py
 
 
@@ -61,10 +61,9 @@ python3 scanner.py -t 192.168.1.1 -p 1-1000 -sV
 
 ### Main Menu
 
-╔══════════════════════════════════════╗
-║    Advanced Nmap-style Scanner with dale      ║
-║     Python Port Scanner v2.0         ║
-╚══════════════════════════════════════╝
+ Advanced Nmap-style Scanner with Dale    
+    Python Port Scanner v2.0       
+
 
 Enter target IP address: 192.168.1.1
 
