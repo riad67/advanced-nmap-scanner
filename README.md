@@ -9,13 +9,13 @@ A Python-based port scanner with Nmap-style features including service detection
 
 ## Features
 
-✅ Multi-threaded Port Scanning - Fast and efficient
-✅ Service Version Detection - Banner grabbing and service identification
-✅ OS Fingerprinting - TCP/IP stack analysis for OS detection
-✅ Multiple Scan Types - Choose from 6 different scanning options
-✅ Custom Port Ranges - Scan specific ports of interest
-✅ No Dependencies - Uses Python standard library only
-✅ User-Friendly Menu - Interactive command-line interface
+Multi-threaded Port Scanning - Fast and efficient
+Service Version Detection - Banner grabbing and service identification
+OS Fingerprinting - TCP/IP stack analysis for OS detection
+Multiple Scan Types - Choose from 6 different scanning options
+Custom Port Ranges - Scan specific ports of interest
+No Dependencies - Uses Python standard library only
+User-Friendly Menu - Interactive command-line interface
 
 📋 Prerequisites
 
